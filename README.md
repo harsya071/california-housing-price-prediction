@@ -23,7 +23,7 @@ Hyperparameter tuning: Structured (grid-search-style) tuning logic for learning_
 
 Achieved an R² of 0.841 on the test set using HistGradientBoostingRegressor, selected after comparing against Linear Regression and Random Forest baselines; meaning the model explains roughly 84% of the variance in California housing prices from the given features.
 
-# Self Critique
+# Self Notes
 
 This was a guided tutorial project, not an original problem formulation, my next project applies the same regression + model comparison workflow to an original F&B/logistics dataset (demand forecasting)
 
